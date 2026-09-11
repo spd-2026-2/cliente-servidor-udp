@@ -1,0 +1,9 @@
+@"
+target/
+build/
+dist/
+nbproject/private/
+*.class
+*.jar
+.DS_Store
+"@ | Set-Content .gitignore
